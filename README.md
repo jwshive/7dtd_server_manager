@@ -1,6 +1,6 @@
 # 7 Days to Die Server Management Tool
 
-A Python-based command-line interface for managing and monitoring 7 Days to Die dedicated servers via Telnet.
+A Python-based command-line interface for managing and monitoring 7 Days to Die dedicated servers via Telnet. Not all functionality fully tested.
 
 ## Features
 
